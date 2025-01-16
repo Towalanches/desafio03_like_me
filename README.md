@@ -1,6 +1,6 @@
 ### IMPORTANTE
 
-##Variables de entorno
+Variables de entorno
 
 Asegúrate de configurar las siguientes variables en tu archivo `.env`:
 
