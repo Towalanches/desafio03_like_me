@@ -10,3 +10,4 @@ Asegúrate de configurar las siguientes variables en tu archivo `.env`:
 - `DB_PASSWORD=tu_contraseña`
 - `DB_PORT=5432`
 - `PORT=3000`
+- `CORS_ORIGIN=http://localhost:5173`
